@@ -10,3 +10,4 @@
 - 🖥️ Linkedin: [Michael O'Connor](https://www.linkedin.com/in/michael-o-connor-b79005200/)
 - 🏌️‍♂️ Fun fact: I have played in a golf league for 6 years.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oconnor97&show_icons=true&theme=radical)
