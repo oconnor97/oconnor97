@@ -2,7 +2,7 @@
 
 - 🏛️ Teaching Assistant with Generation USA Juinor Web Developer Program.
 - 💻 I’m looking for career oppertunities.
-- 🔭 I’m currently working on building a strong portfolio and peer network.
+- 🔭 I am working on building a strong portfolio and peer network.
 - 🌱 Currently learning TypeScript!
 - 📚 Pursuing new certificates.
 - 💬 Ask me about my projects!
