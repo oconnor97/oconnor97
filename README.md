@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🏛️ Instrucor with Generation USA Juinor Web Developer Program.
+- 🏛️ Instructor with Generation USA Juinor Web Developer Program.
 - 💻 I’m looking for career oppertunities.
 - 🔭 I am working on building a strong portfolio and peer network.
 - 🌱 Currently learning TypeScript!
